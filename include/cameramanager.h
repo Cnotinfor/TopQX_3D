@@ -1,0 +1,1 @@
+#include "../src/CameraManager.h"

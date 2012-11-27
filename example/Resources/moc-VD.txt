@@ -1,0 +1,82 @@
+[Sentences]
+1=Invento Músical
+2=Šios natos dabar negalima groti. 
+3=Pauzės dabar negalima daryti.
+4=Pasirink, kiek laiko grosi šią natą.
+5=Pasirink, kiek laiko truks pauzė.
+6=Pasirink, kiek laiko grosi C (do).
+7=Pasirink, kiek laiko grosi žemąją C.
+8=Pasirink, kiek laiko grosi D (re).
+9=Pasirink, kiek laiko grosi E (mi).
+10=Pasirink, kiek laiko grosi F (fa).
+11=Pasirink, kiek laiko grosi G (sol).
+12=Pasirink, kiek laiko grosi L (la).
+13=Pasirink, kiek laiko grosi B (si).
+14=Pasirink, kiek laiko grosi mažąją C (do).
+15=Pasirink, kiek laiko grosi diskanto C (do).
+
+16=Savo sukurtai melodijai gali pridėti akompanimentą.
+17=Gali parinkti kitą instrumentą ir aš juo grosiu.
+18=Pabandyk!
+19=Tai vienas mėgstamiausių mano instrumentų!
+20=Esu pasiruošęs!
+
+21=Labas. Esu Mažasis Mocartas.
+22=Ar padėsi man sukurti muziką?
+23=Spustelėk šį mygtuką, jei nori pradėti kurti.
+24=Ar žinai, kad gali pasiklausyti muzikos, kurią aš sukūriau?
+25=Jei norėtum klausyktis, spustelėti šį mygtuką.
+26=Kokį tempą parinksi kuriamai muzikai?
+27=Pasirink kuriamos muzikos ilgį.
+28=Kokią muziką kursi: trumpą, vidutinio ilgio ar ilgą? 
+29=Ar tikrai nori išeiti?
+30=Ar pasiruošęs pradėti?
+
+31=Dabar kursime 16 taktų ir 120 kirčių per sekundę muziką.
+32=Dabar kursime 16 taktų ir 160 kirčių per sekundę muziką.
+33=Dabar kursime 16 taktų ir 200 kirčių per sekundę muziką.
+34=Dabar kursime 32 taktų ir 120 kirčių per sekundę muziką.
+35=Dabar kursime 32 taktų ir 160 kirčių per sekundę muziką.
+36=Dabar kursime 32 taktų ir 200 kirčių per sekundę muziką.
+37=Dabar kursime 64 taktų ir 120 kirčių per sekundę muziką.
+38=Dabar kursime 64 taktų ir 160 kirčių per sekundę muziką.
+39=Dabar kursime 64 taktų ir 200 kirčių per sekundę muziką.
+
+40=Iki!
+41=Lauksiu Tavęs kitą kartą…
+42=Iki pasimatymo!
+43=Sudie!
+44=Atia!
+45=Sėkmės!
+46=Manau, kad Tau jau metas miegoti…
+
+47=Laukiu Tavęs…
+48=Galiu užmigti belaukdamas…!
+49=
+50=Ei! Ar Tu vis dar čia?
+51=Būti muzikantu - nelengvas darbas.
+52=
+53=Įdomu, ar čia dar kas yra..?
+54=
+55=Ką norėtum,kad padaryčiau?
+56=Ei! Kada pagaliau išgirsiu muziką?
+57=Nagi… Noriu muzikos!
+58=Laukiu natų…!
+59=Ar tu dar ilgai? Kurkime muziką!
+60=Taigi…ar jau nebenori tęsti?
+61=Net mano močiutė už Tave greitesnė!
+62=
+63=Oi..! Panašu, kad šis mygtukas neveikia...
+64=Ei..! Kur išėjai?
+65=Atsiliepk…    Ar tu vis dar čia?
+66=Ar aš čia likau vienas?
+67=Negaliu pabaigti šio kūrinio be Tavo pagalbos.
+68=Darausi mieguistas...Jau beveik miegu.
+
+69=Puiku! Baigta!
+70=Sukūrei puikią melodiją!
+71=Puikiai padirbėta, maestro!
+
+72=Et! Laikas baigėsi.
+73=Norėdamas kurti toliau, turėsi šį žaidimą nusipirkti.
+74=Iki greito!

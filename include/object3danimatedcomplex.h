@@ -1,0 +1,1 @@
+#include "../src/Object3dAnimatedComplex.h"
